@@ -1,0 +1,3 @@
+[submodule "vendor/phpbrowscap"]
+	path = vendor/phpbrowscap
+	url = ./vendor/phpbrowscap/
